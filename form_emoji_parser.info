@@ -1,0 +1,5 @@
+name = Form Emoji Parser
+description = This drupal 7 module avoids PDOExceptions when saving data with emojis by erasing them in all forms of website.
+version = "7.x-1.0"
+core = "7.x"
+package = "Administration"
